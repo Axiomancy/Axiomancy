@@ -10,9 +10,19 @@ I am currently working on basic coding projects in my spare time outside of my f
 
 I will be adding all of my projects, certificates and achievement's to my Github profile.
 
-Skills: 🐍Python//JavaScript//C#
+Skills: Python//JavaScript//C#
 
-- 🔭 I’m currently working on this page. 
+- 🔭 I’m currently working on Basic projects across a variety of languages. 
+- 🌱 I’m currently learning Microsoft learn, back-end developer career path. 
+- 👯 I’m looking to collaborate on Beginner/intermediate projects. 
+- 🤔 I’m looking for help with Everything!! 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Axiomancy)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Axiomancy&show_icons=true)  
+
+
 
 
 
