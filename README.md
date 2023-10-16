@@ -1,6 +1,7 @@
-### Hi there 👋, my name is Axio
-#### Up-skilling myself! 
+
 ![Up-skilling myself! ](https://media.licdn.com/dms/image/D4E16AQFVxgoNoVGn8g/profile-displaybackgroundimage-shrink_350_1400/0/1697490518513?e=1703116800&v=beta&t=F8bW8XBemHEynpTI9eQMFxz2QU2FCllr4h_psGeUcIU)
+### Hi there 👋, my name is Axio
+#### Up-skilling myself! Always learning!
 
 I'm Axio from the UK.
 I am currently learning the fundamentals of multiple platforms/languages, mostly revolving around python and related back-end languages, with plans to also gain a solid grasp of java-script in the near future.
@@ -10,7 +11,10 @@ I am currently working on basic coding projects in my spare time outside of my f
 
 I will be adding all of my projects, certificates and achievement's to my Github profile.
 
-Skills: Python//JavaScript//C#
+Skills: 
+🐍Python
+☕JavaScript
+💻C#
 
 - 🔭 I’m currently working on Basic projects across a variety of languages. 
 - 🌱 I’m currently learning Microsoft learn, back-end developer career path. 
