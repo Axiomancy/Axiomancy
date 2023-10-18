@@ -1,4 +1,4 @@
-![Up-skilling myself! ](https://media.licdn.com/dms/image/D4E16AQFVxgoNoVGn8g/profile-displaybackgroundimage-shrink_350_1400/0/1697490518513?e=1703116800&v=beta&t=F8bW8XBemHEynpTI9eQMFxz2QU2FCllr4h_psGeUcIU)
+![Up-skilling myself! ](https://media.licdn.com/dms/image/D4E16AQH_QqXuyJa_Sw/profile-displaybackgroundimage-shrink_350_1400/0/1697525344695?e=1703116800&v=beta&t=ZIN8Tm6aWC4Q1G1OuK90kpwGtVKEqQWsq9X9V9xegns)
 
 ### Hi there 👋, my name is Axio
 #### Up-skilling myself! Always learning!
