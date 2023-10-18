@@ -1,4 +1,3 @@
-![Up-skilling myself! ](https://media.licdn.com/dms/image/D4E16AQH_QqXuyJa_Sw/profile-displaybackgroundimage-shrink_350_1400/0/1697525344695?e=1703116800&v=beta&t=ZIN8Tm6aWC4Q1G1OuK90kpwGtVKEqQWsq9X9V9xegns)
 ![Untitled (14)](https://github.com/Axiomancy/Axiomancy/assets/146528613/e66baebc-ea54-489c-bf75-7ec1246a25d5)
 
 ### Hi there 👋, my name is Axio
@@ -26,7 +25,7 @@ Skills-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Axiomancy)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Axiomancy&show_icons=true)  
-
+![LinkedIn stats](https://www.linkedin.com/in/dylan-reynolds-540567296/)
 
 
 
