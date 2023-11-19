@@ -3,7 +3,7 @@
 ### Hi there 👋, my name is Dylan
 #### Up-skilling myself! Always learning!
 
-I'm Axio from the UK.
+Hi, im Dylan from the UK.
 I am currently learning the fundamentals of multiple platforms/languages, mostly revolving around python and related back-end languages, with plans to also gain a solid grasp of java-script in the near future.
  
 I am very driven and my goal is to be employed in the tech industry within the next 8-12 months.
