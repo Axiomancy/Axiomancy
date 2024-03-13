@@ -15,6 +15,11 @@ Skills-
 🐍Python
 👾Git-ops
 💻Azure
+💾HTML
+👗CSS
+📜J.S
+➡️PHP
+⚾MySQL
 
 - 🔭 I’m currently working on Basic projects across a variety of languages. 
 - 🌱 I’m currently learning Microsoft learn, back-end developer career path. 
