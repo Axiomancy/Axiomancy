@@ -1,4 +1,3 @@
-![Untitled (14)](https://github.com/Axiomancy/Axiomancy/assets/146528613/e66baebc-ea54-489c-bf75-7ec1246a25d5)
 
 ### Hi there 👋, my name is Dylan
 #### Up-skilling myself! Always learning!
