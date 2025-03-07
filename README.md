@@ -6,8 +6,7 @@
 Hi, im Dylan from the UK.
 I am currently learning the fundamentals of multiple frameworks/platforms/languages.
  
-I am very driven and my goal is to be employed in the tech industry within the next 8-12 months.
-I am currently working on basic coding projects in my spare time, as well as systematically working through and completing creditable learning platform programs, such as Microsoft learn.
+I am currently working as a 1st line support engineer and on basic server and cloud based projects in my spare time, as well as systematically working through and completing creditable learning platform programs, such as Microsoft learn.
 
 I will be adding all of my projects, certificates and achievement's to my Github and Linkedin profile.
 
@@ -17,14 +16,12 @@ Skills-
 💻Azure
 💾HTML
 👗CSS
-📜J.S
 ➡️PHP
 ⚾MySQL
 
-- 🔭 I’m currently working on Basic projects across a variety of languages. 
-- 🌱 I’m currently learning Microsoft learn, back-end developer career path. 
-- 👯 I’m looking to collaborate on Beginner/intermediate projects. 
-- 🤔 I’m looking for help with Everything!! 
+- 🔭 I’m currently working on Basic tech projects. 
+- 🌱 I’m currently learning Microsoft learn MS 365 and Azure. 
+- 👯 I’m looking to collaborate on Beginner/intermediate projects.  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Axiomancy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/dylan-reynolds-540567296//)  
